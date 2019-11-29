@@ -1,2 +1,2 @@
-# EY_test_task-short-version-
+# EY_test_task-short_version
 test task for EY
